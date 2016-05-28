@@ -30,7 +30,7 @@ public class Snippet {
 		HttpResponse httpResponse = httpClient.execute(httpPost);
 
 		int statusCode = httpResponse.getStatusLine().getStatusCode();
-		System.out.println(statusCode + ':'
+		System.out.println(statusCode + 'hjdfdfu'
 				+ httpResponse.getStatusLine().getReasonPhrase());
 		System.out.println(IOUtils.toString(httpResponse.getEntity().getContent()));
 
