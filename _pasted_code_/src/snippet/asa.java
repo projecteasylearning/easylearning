@@ -25,7 +25,7 @@ public class asa {
 
 			twitter.setOAuthAccessToken(accessToken);
 			for (int i=0 ; i<names.length;i++){
-				System.out.println(i);
+				System.out.println("hie garima");
 			twitter.updateStatus("Hi, @"+names[i]+", We are hosting a #Free #Webnier on how to create 'Creating Food Review App in #Android', Visit http://goo.gl/55cgpF");
 			}
 			System.out.println("Successfully updated the status in Twitter.");
