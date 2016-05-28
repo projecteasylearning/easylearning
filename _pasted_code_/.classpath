@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/gyansha1/Downloads/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gyansha1/Downloads/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gyansha1/Downloads/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gyansha1/Downloads/signpost-commonshttp4-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gyansha1/Downloads/twitter4j-core-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gyansha1/Downloads/urlrewritefilter-4.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gyansha1/Downloads/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

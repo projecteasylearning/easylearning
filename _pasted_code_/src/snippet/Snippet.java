@@ -32,7 +32,7 @@ public class Snippet {
 		int statusCode = httpResponse.getStatusLine().getStatusCode();
 		System.out.println(statusCode + ':'
 				+ httpResponse.getStatusLine().getReasonPhrase());
-		//System.out.println(IOUtils.toString(httpResponse.getEntity().getContent()));
+		System.out.println(IOUtils.toString(httpResponse.getEntity().getContent()));
 
 	}
 }
